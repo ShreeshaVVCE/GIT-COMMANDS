@@ -1,0 +1,9 @@
+git config --list
+git config --global user.name "ShreeshaVVCE"
+git config --global user.email "vvce23cse0189@vvce.ac.in"
+ls   
+git init
+ls -a
+
+git add .
+git status
