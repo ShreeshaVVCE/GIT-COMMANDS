@@ -7,3 +7,11 @@ ls -a
 
 git add .
 git status
+git remote add origin "url"
+
+{
+  git add .
+  git commit -m "hi this is git"
+  git branch -m main
+  git push -u origin main
+}
